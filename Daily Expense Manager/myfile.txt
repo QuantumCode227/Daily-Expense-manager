@@ -30,3 +30,17 @@ DAILY EXPENSE RECORD
 
 Date      : 2025-07-11
 Day       : Friday
+==============================
+DAILY EXPENSE RECORD
+==============================
+
+Date      : 2025-07-12
+Day       : Saturday
+
+----------------------------------
+Time    : 18:32:46
+Item    : hircut'
+Category: grooming
+Method  : cash
+Amount  : Rs. 500
+Notes   : something

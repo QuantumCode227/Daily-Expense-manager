@@ -1,8 +1,8 @@
 from datetime import datetime
 
 # previous day file for maintaining record or new day to print new_day_str
-prev_day = "D:/Coding/Python 2.0/Practice projects/Daily Expense Manager/prev_day.txt"
-file_path = "D:/Coding/Python 2.0/Practice projects/Daily Expense Manager/myfile.txt"
+prev_day = "D:/Coding/Python 2.0/Practice projects/Daily-Expense-manager/Daily Expense Manager/prev_day.txt"
+file_path = "D:/Coding/Python 2.0/Practice projects/Daily-Expense-manager/Daily Expense Manager/myfile.txt"
 # Today date and day
 date = datetime.now().date()
 today_day = datetime.now().strftime("%A")
